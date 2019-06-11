@@ -1,0 +1,1 @@
+FKTools_Rsrc_go -manifest FKGUI.manifest -ico FKAutoSpiderPool.ico -o FKGUI.syso

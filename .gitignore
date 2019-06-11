@@ -1,0 +1,8 @@
+.idea
+*.exe
+*.a
+*.so
+bin/workdir/
+bin/workdir/*
+pkg/*
+pkg/

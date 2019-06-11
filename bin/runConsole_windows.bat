@@ -1,0 +1,1 @@
+FKAutoSpiderPool_windows.exe -UIType=cmd -NodeMode=1 -OutputType=csv -MaxThreadNum=200 -DockerCap=10000 -MedianPauseTime=300 -RequestLimit=0 -UpdateProxyIntervale=0 Keywords="" IsInheritSuccess=true IsInheritFailure=true
